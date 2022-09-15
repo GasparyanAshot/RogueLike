@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 28fea959ffce8554ebcc507874ce38ed
+timeCreated: 1616088203
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - DeadParticle: {instanceID: 0}
+  - HPRegenItem: {fileID: 1910100220323364, guid: a0d5e028e389e26419e144877f2538b6,
+      type: 2}
+  - MPRegenItem: {fileID: 1162404477912050, guid: d7680006e24c1884d99736e7ddc5bf84,
+      type: 2}
+  - player: {instanceID: 0}
+  - room: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
